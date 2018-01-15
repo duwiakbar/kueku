@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KeuKu</string>
+
+    <string name="initial_total">0.0</string>
+    <string name="add_transaction">Tambah Transaksi</string>
+    <string name="description">Deskripsi</string>
+    <string name="amount">Nominal</string>
+    <string name="currency">RP</string>
+    <string name="credit">CREDIT</string>
+    <string name="day">Sat</string>
+    <string name="date">2017&#8211;7&#8211;22</string>
+    <string name="number">1234</string>
+    <string name="edit_transaction">Edit Transaksi</string>
+
+    <string-array name="type">
+        <item>CREDIT</item>
+        <item>DEBIT</item>
+    </string-array>
+</resources>
